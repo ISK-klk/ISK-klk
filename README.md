@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy estudiante de DAW
 
-<!--
-**ISK-klk/ISK-klk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi repositorio!
 
-Here are some ideas to get you started:
+## 🙋 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Actualmente curso **1º de Desarrollo de Aplicaciones Web (DAW)**.
+- 🧠 Tengo conocimientos básicos de **Java**, HTML, CSS, JavaScript y SQL.
+- 🌍 Soy de **Rumanía**, tengo **19 años** y vivo en Castilla-La Mancha.
+- 🛠️ Me interesa aprender más sobre desarrollo **backend**, bases de datos y frameworks modernos.
+
+## 🚀 Objetivos
+
+- Mejorar mis habilidades de programación.
+- Subir proyectos personales y prácticas del ciclo.
+- Conectar con otros estudiantes y desarrolladores.
+
+---
+
+📫 Puedes contactarme por GitHub si estás interesado en colaborar o compartir ideas.  
+¡Gracias por visitar mi perfil!
